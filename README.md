@@ -1,7 +1,4 @@
-We at Standuply, while working hard on a <a href="https://standuply.com/?utm_source=github&utm_medium=text&utm_campaign=chatbotevents">Slack bot for Agile teams</a>, like to have fun and make some noise. Since we are excited about AI and bots, we would like to get to know others who feel the same. So we have an idea — what if we can have a single list of conferences and their participants in AI and chatbot space? This way everybody could pick the best conference for them and engage with visitors before an event. Wouldn’t that be cool? So we’ve composed a list of AI and chatbot conferences in 2017.
-
-Leave me a note near an event you’re interested or going to. Then I will submit your name on the list. If you’re not on Medium, reach me on Twitter at @alexkistenev and I will put your Twitter handle on the list as well.
-
+This list is brought to you by Standuply. Want to overcome time zone differences in your team? Try it, and put <a href="https://standuply.com/?utm_source=github&utm_medium=text&utm_campaign=chatbotevents">daily standups in Slack</a> on autopilot.
 
 April
 ==
